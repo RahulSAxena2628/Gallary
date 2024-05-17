@@ -49,6 +49,9 @@ body{
     background-color: #222;
     background-blend-mode: hard-light;
     transition: all 1s ease-in-out;
+    font: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
 
 }
 .box:hover{
